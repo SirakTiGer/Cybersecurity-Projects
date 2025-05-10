@@ -43,7 +43,11 @@ Welcome to my Cybersecurity Projects repository! This repository showcases vario
      - Provided a detailed report with recommendations for remediation.
 
 ---
-
+### 6. **Python automation and file manupulation**
+   - **Description**:This project is a Python algorithm that controls access to restricted files. The intended objective is achieved by importing a file and filtering out unauthorized  IP addresses.
+   - **Key Features**:
+      -Use pyton to automate file access permission
+---
 ## 🚀 How to Use This Repository
 Each project is organized into its own folder, containing the following:
 - **Project Description**: An overview of the project and its objectives.
