@@ -1,0 +1,5 @@
+## Project description
+This project is a Python algorithm that controls access to restricted files of a healthcare company. The intended objective is achieved by importing a file and filtering out unauthorized
+
+## Open the file that contains the allow list
+To open a file we first need to assign a string containing the file name to a variable called import_file. Then we run the open () function with two arguments, the variable and an access permission level. 
