@@ -62,8 +62,8 @@ To explore a project, navigate to its respective folder and review the included 
 These projects utilize a variety of tools and technologies, including:
 - **Operating Systems**: Linux (debian, kali), Windows
 - **Frameworks**: NIST CSF
-- **Languages**: SQL, Shell Scripting
-- **Tools**: Wireshark, tcpdump
+- **Languages**: SQL, Python
+- **Tools**: Wireshark, tcpdump, Suricata, Splunk 
 ---
 
 ## 🧑‍💻 About Me
